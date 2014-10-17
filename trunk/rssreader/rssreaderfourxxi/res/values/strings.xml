@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSS клиент для android</string>        
+   	<string name="add_new_rss">Add a new rss source</string>
+   	<string name="dialog_label">Type rss url: </string>
+   	<string name="emptyList">No data </string>
+   	
+</resources>
